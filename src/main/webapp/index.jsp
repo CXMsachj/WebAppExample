@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hey Sachin ...this is testing of integration..Maven-Jenkins and deploying WAR on tomacat...!!!</h2>
+<h2>Hey Sachin, Today's task "deploying WAR on tomacat" completed successfully...!!!</h2>
 </body>
 </html>
